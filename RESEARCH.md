@@ -11,4 +11,6 @@ also includes information on how te read/get information about battery - chargin
 
 ### Official Linux hid-sony driver  
 Github Link:  
-https://github.com/torvalds/linux/blob/master/drivers/hid/hid-sony.c
+https://github.com/torvalds/linux/blob/master/drivers/hid/hid-sony.c  
+Rumble support integrated?? check file.  
+Note: could be useful to check history.
