@@ -10,3 +10,8 @@ Read and send raw data over network
 or  
 Read and parse custom data over network (reduce traffic, smaller packets, faster, enhance?)  
 Benefits?? Profit??? Data Loss?
+
+
+# Contribution Rules a.k.a. Rules of Contribution also known as 'please help me!'
+
+Do not commit! Please use Pull requests!
