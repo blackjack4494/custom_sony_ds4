@@ -13,4 +13,10 @@ also includes information on how te read/get information about battery - chargin
 Github Link:  
 https://github.com/torvalds/linux/blob/master/drivers/hid/hid-sony.c  
 Rumble support integrated?? check file.  
-Note: could be useful to check history.
+Note: could be useful to check history.  
+
+
+### Official Raspbian hid-sony driver (important for developing on raspberry-pi using latest raspbian)  
+Github Link:  
+https://github.com/raspberrypi/linux/blob/rpi-4.9.y/drivers/hid/hid-sony.c  
+Note: this driver is not updated compared to linux repo
