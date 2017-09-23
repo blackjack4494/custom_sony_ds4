@@ -6,8 +6,9 @@ https://wiki.gentoo.org/wiki/Sony_DualShock
 also includes information on how te read/get information about battery - charging etc
 
 
-
-
+# Best possible approach use libusb library (cross-platform)  
+Official Homepage:  
+http://libusb.info/  
 
 ### Official Linux hid-sony driver  
 Github Link:  
